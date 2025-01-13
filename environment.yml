@@ -1,0 +1,11 @@
+name: sandbox-openai
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+    - python-dotenv
+    - openai
+    - requests
