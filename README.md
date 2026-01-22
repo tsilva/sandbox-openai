@@ -5,7 +5,7 @@
   [![OpenAI](https://img.shields.io/badge/OpenAI-API-412991.svg)](https://openai.com/)
   [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-  **A playground for experimenting with the OpenAI API using Python**
+  **🧪 A playground for experimenting with the OpenAI API using Python 🐍**
 
 </div>
 
